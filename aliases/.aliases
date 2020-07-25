@@ -1,1 +1,1 @@
-alias ls="exa-linux-x86_64 -l"
+alias ls="~/dotfiles/binaries/exa-linux-x86_64 -l"
